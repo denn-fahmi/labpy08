@@ -6,3 +6,4 @@
 ## Class Diagram <p>
 ![gambar1](D5.PNG) <p>
 ## Flowchart <p>
+![gambar2](D1.PNG) <p>
